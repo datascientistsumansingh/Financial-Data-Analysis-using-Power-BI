@@ -13,7 +13,7 @@ A comprehensive **Finance Dashboard** built using Microsoft Power BI to provide 
 
   ## Data Source
 
-  - **Excel File**: 2013 and 2014 financial reports.
+- **Excel File**: 2013 and 2014 financial reports.
 
     ## Usage
 
