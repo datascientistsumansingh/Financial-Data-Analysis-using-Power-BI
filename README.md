@@ -11,9 +11,9 @@ A comprehensive **Finance Dashboard** built using Microsoft Power BI to provide 
   
   ![Power BI Dashboard](https://github.com/user-attachments/assets/b9f00f6c-63a8-471a-8ab7-a8862de0cf8d)
 
-  ## Data Sources
+  ## Data Source
 
-  - **Excel Files**: 2013 and 2014 financial reports.
+  - **Excel File**: 2013 and 2014 financial reports.
 
     ## Usage
 
