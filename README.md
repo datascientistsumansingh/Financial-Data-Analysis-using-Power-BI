@@ -17,14 +17,14 @@ A comprehensive **Finance Dashboard** built using Microsoft Power BI to provide 
 
     ## Usage
 
-    **1. Explore KPIs**: Analyze key financial metrics on the main dashboard.
-    **2. Export Reports**: Export visualizations and insights as PDFs or Excel files for stakeholder presentations.
+- **1. Explore KPIs**: Analyze key financial metrics on the main dashboard.
+- **2. Export Reports**: Export visualizations and insights as PDFs or Excel files for stakeholder presentations.
 
     ## Customization
 
- **1. Modify Visualizations**: Add or edit charts and graphs to suit your needs.
- **2. Integrate New Data**: Update the data model to include additional data sources.
- **3. Customize Themes**: Apply your organization's branding to the dashboard.
+- **1. Modify Visualizations**: Add or edit charts and graphs to suit your needs.
+- **2. Integrate New Data**: Update the data model to include additional data sources.
+- **3. Customize Themes**: Apply your organization's branding to the dashboard.
 
  ## Requirements
 
